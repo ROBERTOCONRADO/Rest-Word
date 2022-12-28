@@ -10,6 +10,9 @@
 
 			<p>Rest © 2015. Alguns direitos reservados.</p>
 		</footer>
-
+    
+    <!-- Footer WordPress -->
+    <?php wp_footer(); ?>
+    <!-- Fechamento footer WordPress -->
 	</body>
 </html>
